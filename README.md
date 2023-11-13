@@ -26,7 +26,6 @@ Utilisation
 Problèmes connus
 -------------
 
-> - Le built-in "echo" renvoie 1 au lieu de 0 et inversement
 > - La gestion des && et || n'est pas tout à fait complète, certains cas complexes ne sont pas gérés correctement
 
 Disclaimer
