@@ -21,7 +21,7 @@ Utilisation
 
 > - Compilation : `make`
 > - Lancement : `./42sh`
-> - Commandes : `help` ou `man 42sh`
+> - Commandes : `help`
 
 Problèmes connus
 -------------
